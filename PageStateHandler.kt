@@ -1,4 +1,4 @@
-class PageStageHandler @Inject constructor() {
+class PageStageHandler {
     var totalPage = 0
     var currentPage = 0
 
